@@ -1,0 +1,30 @@
+{
+  "name": "robo-bonisi",
+  "version": "0.0.1",
+  "description": "robo khatiir",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crapboi-farti/robo-bonisi.git"
+  },
+  "keywords": [
+    "yes"
+  ],
+  "author": "crapboi-farti, Shryder1337",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crapboi-farti/robo-bonisi/issues"
+  },
+  "homepage": "https://github.com/crapboi-farti/robo-bonisi#readme",
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "discord.js": "^12.1.1",
+    "discord.js-commando": "^0.10.0"
+  }
+}
